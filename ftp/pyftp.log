@@ -1,0 +1,30 @@
+INFO:pyftpdlib:>>> starting FTP server on 0.0.0.0:21, pid=31393 <<<
+INFO:pyftpdlib:concurrency model: async
+INFO:pyftpdlib:masquerade (NAT) address: 172.19.73.101
+INFO:pyftpdlib:passive ports: 2223->2232
+INFO:pyftpdlib:222.200.179.26:6219-[] FTP session opened (connect)
+INFO:pyftpdlib:222.200.179.26:6219-[anonymous] USER 'anonymous' logged in.
+INFO:pyftpdlib:222.200.179.26:6219-[anonymous] CWD /Users/yangyuanhao/.cache 250
+INFO:pyftpdlib:222.200.179.26:6219-[anonymous] CWD /Users/yangyuanhao/yyhyplxyz.github.io 250
+INFO:pyftpdlib:222.200.179.26:6219-[anonymous] CWD /Users/yangyuanhao/yyhyplxyz.github.io/scaffolds 250
+INFO:pyftpdlib:222.200.179.26:6219-[anonymous] CWD /Users/yangyuanhao/yyhyplxyz.github.io/source 250
+INFO:pyftpdlib:222.200.179.26:6219-[anonymous] CWD /Users/yangyuanhao/yyhyplxyz.github.io/source/tags 250
+INFO:pyftpdlib:222.200.179.26:6295-[] FTP session opened (connect)
+INFO:pyftpdlib:222.200.179.26:6219-[anonymous] CWD /Users/yangyuanhao/yyhyplxyz.github.io/source 250
+INFO:pyftpdlib:222.200.179.26:6296-[] FTP session opened (connect)
+INFO:pyftpdlib:222.200.179.26:6295-[anonymous] USER 'anonymous' logged in.
+INFO:pyftpdlib:222.200.179.26:6296-[anonymous] USER 'anonymous' logged in.
+INFO:pyftpdlib:222.200.179.26:6295-[anonymous] CWD /Users/yangyuanhao/yyhyplxyz.github.io/source/tags 250
+INFO:pyftpdlib:222.200.179.26:6296-[anonymous] CWD /Users/yangyuanhao/yyhyplxyz.github.io/source/tags 250
+INFO:pyftpdlib:222.200.179.26:6295-[anonymous] RETR /Users/yangyuanhao/yyhyplxyz.github.io/source/tags/index.md completed=1 bytes=73 seconds=0.001
+INFO:pyftpdlib:222.200.179.26:6296-[anonymous] RETR /Users/yangyuanhao/yyhyplxyz.github.io/source/tags/.DS_Store completed=1 bytes=6148 seconds=0.0
+INFO:pyftpdlib:222.200.179.26:6295-[anonymous] FTP session closed (disconnect).
+INFO:pyftpdlib:222.200.179.26:6296-[anonymous] FTP session closed (disconnect).
+INFO:pyftpdlib:222.200.179.26:6333-[] FTP session opened (connect)
+INFO:pyftpdlib:222.200.179.26:6333-[anonymous] USER 'anonymous' logged in.
+INFO:pyftpdlib:222.200.179.26:6333-[anonymous] CWD /Users/yangyuanhao/yyhyplxyz.github.io/source 250
+INFO:pyftpdlib:222.200.179.26:6333-[anonymous] FTP session closed (disconnect).
+INFO:pyftpdlib:222.200.179.26:6219-[anonymous] Control connection timed out.
+INFO:pyftpdlib:222.200.179.26:6219-[anonymous] FTP session closed (disconnect).
+INFO:pyftpdlib:received interrupt signal
+INFO:pyftpdlib:>>> shutting down FTP server (1 active socket fds) <<<
